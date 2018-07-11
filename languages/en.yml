@@ -1,8 +1,10 @@
 menu:
   home: Home
   article: Article
+  life: Life
   works: Works
   music: Music
+  twitter: Twitter
   about: About
   docs: Docs
   archive: Archive
@@ -15,11 +17,6 @@ aside:
   latest_post: Latest Post
   friend_links: Friend Links
 
-footer:
-  about: About
-  friend_links: Friend Links
-  build_tools: Build Tools
-
 paginator:
   next: next
   prev: prev
@@ -30,6 +27,6 @@ copyright_statement:
   three: Thank you for reading, this article belongs to
   four: copyright, if reproduced, please indicate the source
 
-other: 
+other:
   bout: bout
   year: Year

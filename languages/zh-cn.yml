@@ -1,8 +1,11 @@
 menu:
   home: 首页
   article: 文章
+  tech: Tech
   works: 作品
+  life: 生活
   music: 音乐
+  twitter: Twitter
   about: 关于
   docs: 文档
   archive: 归档
@@ -15,10 +18,10 @@ aside:
   latest_post: 最新文章
   friend_links: 友情链接
 
-footer:
-  about: 关于
-  friend_links: 友情链接
-  build_tools: 构建工具
+# footer:
+#   about: 关于
+#   friend_links: 友情链接
+#   build_tools: 构建工具
 
 paginator:
   next: 下一页
@@ -30,6 +33,6 @@ copyright_statement:
   three: 感谢您的阅读，本文由
   four: 版权所有。如若转载，请注明出处
 
-other: 
+other:
   bout: 次
   year: 年
