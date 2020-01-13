@@ -72,7 +72,12 @@
         margin-top: $main-fs * 2.5;
     }
 
-    h3, h5, h5, h6 {
+    h3, h4 {
+        margin-top: $main-fs * 2;
+    }
+
+
+    h5, h6 {
         line-height: 1.5;
         font-weight: 400;
         color: $title-fc;
