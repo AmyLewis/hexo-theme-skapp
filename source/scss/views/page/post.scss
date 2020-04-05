@@ -80,6 +80,12 @@ body {
 .post__content {
     @include post();
 
+    a {
+        color: $main-color;
+        transition: color .3s;
+        text-decoration: underline;
+    }
+
     .post-announce {
         margin: 2em 0;
     }
@@ -105,10 +111,9 @@ body {
             text-overflow: ellipsis;
             white-space: nowrap;
             color: $main-fc;
-            text-decoration: none;
+            text-decoration: underline;
             cursor: pointer;
             transition: color $transition;
-            text-decoration: none;
 
             &.actived {
                 color: $main-color--hover;
